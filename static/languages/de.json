@@ -1,13 +1,12 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Wie viele europäische Haushalte sind von Energiearmut betroffen?",
+  "subtitle": "Im Durchschnitt konnten 7,4 % der Haushalte in der EU im Jahr 2024 ihren Energiebedarf nicht decken. Eine Verbesserung um 3,2 % gegenüber 2023.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Energiearmut liegt vor, wenn ein Haushalt seinen Energieverbrauch so weit reduzieren muss, dass sich dies negativ auf Gesundheit und Wohlbefinden der Bewohner auswirkt. Die Daten für Österreich, Irland, Griechenland, Frankreich, Kroatien, Litauen, Malta, Portugal, Rumänien und die Slowakei stammen aus dem Jahr 2023.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
   "legend1": "Keine Daten verfügbar",
-  "tooltipExtraInfoLabel": "klicken Sie hier"
+  "tooltipExtraInfoLabel": "klicken Sie hier",
+  "customUnitLabel": "der Haushalte"
 }
