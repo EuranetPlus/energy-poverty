@@ -1,13 +1,12 @@
 {
-  "title": "Ktoré krajiny EÚ ponúkajú najlepšie vyhliadky na zamestnanie?",
-  "subtitle": "Budúci rast zamestnanosti v týchto krajinách v rokoch 2022-2035 sa odhaduje na 5,6 %.",
+  "title": "Koľko európskych domácností čelí energetickej chudobe?",
+  "subtitle": "V priemere 7,4 % domácností v EÚ nebolo schopných pokryť svoje energetické potreby v roku 2024. Zlepšenie o 3,2 % oproti roku 2023.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Energetická chudoba nastáva, keď domácnosť musí znížiť svoju spotrebu energie do takej miery, že to negatívne ovplyvňuje zdravie a pohodu obyvateľov. Údaje za Rakúsko, Írsko, Grécko, Francúzsko, Chorvátsko, Litvu, Maltu, Portugalsko, Rumunsko a Slovensko sú z roku 2023.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Prístup k údajom",
-  "extraInfo_DE": "Nemecko urýchľuje zavádzanie energie z obnoviteľných zdrojov a do roku 2030 má za cieľ dosiahnuť 80 % čistej energie",
-  "extraInfo_FR": "Francúzsky parlament počas celonárodných protestov schválil návrh zákona o veľkej imigračnej reforme",
   "legend1": "Nie sú k dispozícii žiadne údaje",
-  "tooltipExtraInfoLabel": "Kliknite sem"
+  "tooltipExtraInfoLabel": "Kliknite sem",
+  "customUnitLabel": "domácností"
 }
