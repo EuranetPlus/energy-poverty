@@ -1,13 +1,12 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur många europeiska hushåll står inför energifattigdom?",
+  "subtitle": "I genomsnitt kunde 7,4 % av hushållen i EU inte tillgodose sina energibehov 2024. En förbättring med 3,2 % från 2023.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Energifattigdom uppstår när ett hushåll måste minska sin energiförbrukning i en grad som negativt påverkar invånarnas hälsa och välbefinnande. Data för Österrike, Irland, Grekland, Frankrike, Kroatien, Litauen, Malta, Portugal, Rumänien och Slovakien är från 2023.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
   "legend1": "Inga data tillgängliga",
-  "tooltipExtraInfoLabel": "Klicka här"
+  "tooltipExtraInfoLabel": "Klicka här",
+  "customUnitLabel": "av hushållen"
 }
