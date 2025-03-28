@@ -1,13 +1,12 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Hoeveel Europese huishoudens kampen met energiearmoede?",
+  "subtitle": "Gemiddeld kon 7,4% van de huishoudens in de EU in 2024 niet in hun energiebehoefte voorzien. Een verbetering van 3,2% ten opzichte van 2023.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "Energiearmoede treedt op wanneer een huishouden zijn energieverbruik moet verminderen tot een niveau dat een negatieve impact heeft op de gezondheid en het welzijn van de bewoners. Gegevens voor Oostenrijk, Ierland, Griekenland, Frankrijk, Kroatië, Litouwen, Malta, Portugal, Roemenië en Slowakije zijn van 2023.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
-  "tooltipExtraInfoLabel": "Klik hier"
+  "tooltipExtraInfoLabel": "Klik hier",
+  "customUnitLabel": "van huishoudens"
 }
