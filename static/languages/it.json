@@ -1,13 +1,12 @@
 {
-  "title": "Quali paesi dell'UE offrono le migliori prospettive di occupazione?",
-  "subtitle": "Si stima che la crescita futura dell'occupazione in questi paesi nel periodo 2022-2035 sarà del 5,6%.",
+  "title": "Quante famiglie europee vivono in povertà energetica?",
+  "subtitle": "In media, il 7,4% delle famiglie nell'UE non è stato in grado di soddisfare il proprio fabbisogno energetico nel 2024. Un miglioramento del 3,2% rispetto al 2023.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "La povertà energetica si verifica quando una famiglia deve ridurre il proprio consumo energetico a un livello che ha un impatto negativo sulla salute e il benessere degli abitanti. I dati per Austria, Irlanda, Grecia, Francia, Croazia, Lituania, Malta, Portogallo, Romania e Slovacchia sono del 2023.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Accedi ai dati",
-  "extraInfo_DE": "La Germania accelera il lancio delle energie rinnovabili, puntando all'80% di energia pulita entro il 2030",
-  "extraInfo_FR": "Il Parlamento francese approva un importante disegno di legge sulla riforma dell'immigrazione tra le proteste nazionali",
   "legend1": "Nessun dato disponibile",
-  "tooltipExtraInfoLabel": "clicca qui"
+  "tooltipExtraInfoLabel": "clicca qui",
+  "customUnitLabel": "delle famiglie"
 }
