@@ -1,13 +1,12 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
+  "title": "Kuinka moni eurooppalainen kotitalous kohtaa energiaköyhyyttä?",
+  "subtitle": "Keskimäärin 7,4 prosenttia EU:n kotitalouksista ei pystynyt tyydyttämään energiantarpetaan vuonna 2024. Parannusta 3,2 prosenttia vuodesta 2023.",
   "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "textNote": "Energiaköyhyys syntyy, kun kotitalouden on vähennettävä energiankulutustaan siinä määrin, että se vaikuttaa kielteisesti asukkaiden terveyteen ja hyvinvointiin. Itävallan, Irlannin, Kreikan, Ranskan, Kroatian, Liettuan, Maltan, Portugalin, Romanian ja Slovakian tiedot ovat vuodelta 2023.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
   "legend1": "Tietoja ei ole saatavilla",
-  "tooltipExtraInfoLabel": "Klikkaa tästä"
+  "tooltipExtraInfoLabel": "Klikkaa tästä",
+  "customUnitLabel": "kotitalouksista"
 }
