@@ -1,13 +1,12 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Cik daudz Eiropas mājsaimniecību saskaras ar enerģētisko nabadzību?",
+  "subtitle": "Vidēji 7,4% mājsaimniecību ES nespēja apmierināt savas enerģijas vajadzības 2024. gadā. Uzlabojums par 3,2% salīdzinājumā ar 2023. gadu.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Enerģijas nabadzība rodas, ja mājsaimniecībai jāsamazina enerģijas patēriņš tādā mērā, kas negatīvi ietekmē iedzīvotāju veselību un labklājību. Dati par Austriju, Īriju, Grieķiju, Franciju, Horvātiju, Lietuvu, Maltu, Portugāli, Rumāniju un Slovākiju ir no 2023. gada.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
   "legend1": "Nav pieejami dati",
-  "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
+  "tooltipExtraInfoLabel": "Noklikšķiniet šeit",
+  "customUnitLabel": "no mājsaimniecībām"
 }
