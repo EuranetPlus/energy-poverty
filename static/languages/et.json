@@ -1,13 +1,12 @@
 {
-  "title": "Millised ELi riigid pakuvad parimaid töövõimalusi?",
-  "subtitle": "Nendes riikides on edaspidine tööhõive kasv aastatel 2022–2035 hinnanguliselt 5,6%.",
+  "title": "Kui paljud Euroopa leibkonnad on silmitsi kütteostuvõimetusega?",
+  "subtitle": "Keskmiselt 7,4% ELi leibkondadest ei suutnud 2024. aastal oma energiavajadust katta. 2023. aastaga võrreldes on paranemine 3,2%.",
   "textNoteDescription": "Märkus",
-  "textNote": "sdchdc",
+  "textNote": "Energiapuudus tekib siis, kui leibkond peab vähendama oma energiatarbimist määral, mis mõjutab negatiivselt elanike tervist ja heaolu. Austria, Iirimaa, Kreeka, Prantsusmaa, Horvaatia, Leedu, Malta, Portugali, Rumeenia ja Slovakkia andmed pärinevad 2023. aastast.",
   "textSourceDescription": "Allikas",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_DE": "Saksamaa kiirendab taastuvenergia kasutuselevõttu, seab eesmärgiks 80% puhta energia kasutamise aastaks 2030",
-  "extraInfo_FR": "Prantsusmaa parlament kiitis üleriigiliste protestide taustal heaks immigratsioonireformi seaduse eelnõu",
   "legend1": "Andmed puuduvad",
-  "tooltipExtraInfoLabel": "Klõpsake siin"
+  "tooltipExtraInfoLabel": "Klõpsake siin",
+  "customUnitLabel": "leibkondadest"
 }
