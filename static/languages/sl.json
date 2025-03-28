@@ -1,13 +1,12 @@
 {
-  "title": "Katere države EU ponujajo najboljše zaposlitvene možnosti?",
-  "subtitle": "Prihodnja rast zaposlenosti v teh državah v letih 2022–2035 je ocenjena na 5,6 %.",
+  "title": "Koliko evropskih gospodinjstev se sooča z energetsko revščino?",
+  "subtitle": "V povprečju 7,4 % gospodinjstev v EU leta 2024 ni moglo zadovoljiti svojih potreb po energiji. To je izboljšanje za 3,2 % glede na leto 2023.",
   "textNoteDescription": "Opomba",
-  "textNote": "sdchdc",
+  "textNote": "Energetska revščina se pojavi, ko mora gospodinjstvo zmanjšati porabo energije do te mere, da negativno vpliva na zdravje in dobro počutje stanovalcev. Podatki za Avstrijo, Irsko, Grčijo, Francijo, Hrvaško, Litvo, Malto, Portugalsko, Romunijo in Slovaško so iz leta 2023.",
   "textSourceDescription": "Vir",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_DE": "Nemčija pospešuje uvedbo obnovljive energije, cilj je 80 % čiste energije do leta 2030",
-  "extraInfo_FR": "Francoski parlament je med protesti po vsej državi potrdil predlog zakona o veliki reformi priseljevanja",
+  "textSource": "Eurostat",
+  "linkDataAccessDescription": "Dostopajte do podatkov",
   "legend1": "Ni podatkov",
-  "tooltipExtraInfoLabel": "Kliknite tukaj"
+  "tooltipExtraInfoLabel": "Kliknite tukaj",
+  "customUnitLabel": "gospodinjstev"
 }
