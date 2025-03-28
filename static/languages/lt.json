@@ -1,13 +1,12 @@
 {
-  "title": "Kurios ES šalys siūlo geriausias įsidarbinimo perspektyvas?",
-  "subtitle": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "title": "Kiek Europos namų ūkių susiduria su energijos nepritekliumi?",
+  "subtitle": "Vidutiniškai 7,4 % namų ūkių ES negalėjo patenkinti savo energijos poreikių 2024 m. Pagerėjimas 3,2 %, palyginti su 2023 m.",
   "textNoteDescription": "Pastaba",
-  "textNote": "sdchdc",
+  "textNote": "Energijos nepriteklius atsiranda tada, kai namų ūkis turi sumažinti energijos suvartojimą tiek, kad tai neigiamai paveiktų gyventojų sveikatą ir gerovę. Austrijos, Airijos, Graikijos, Prancūzijos, Kroatijos, Lietuvos, Maltos, Portugalijos, Rumunijos ir Slovakijos duomenys yra nuo 2023 m.",
   "textSourceDescription": "Šaltinis",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostatas",
   "linkDataAccessDescription": "Pasiekite duomenis",
-  "extraInfo_DE": "Vokietija paspartina atsinaujinančios energijos diegimą ir siekia 80 % švarios energijos iki 2030 m.",
-  "extraInfo_FR": "Prancūzijos parlamentas, kilus protestams visoje šalyje, patvirtino pagrindinį imigracijos reformos įstatymo projektą",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spauskite čia"
+  "tooltipExtraInfoLabel": "Spauskite čia",
+  "customUnitLabel": "namų ūkių"
 }
